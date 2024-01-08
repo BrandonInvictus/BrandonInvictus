@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F733&random=false&width=460&lines=Stop+resisting%2C+I+am+here+to+cure+you.)](https://git.io/typing-svg">
 </p>
 
-## Brandon Sforza - Entepreneur and Artificial Intelligence Developer
+## Brandon Invictus - Entepreneur and Artificial Intelligence Developer
 
 Interested in the development of artificial intelligence and its branches, with the purpose of using them in the military industry. Passionate about the corporate sector and also being a physicist at heart.
 
