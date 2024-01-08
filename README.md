@@ -65,11 +65,11 @@ Interested in the development of artificial intelligence and its branches, with 
 
 ### 📧 Connect with me 
 
-<a href="https://t.me/BrandonSforza">
+<a href="https://t.me/BrandonInvictus">
   <img align="left" alt="Brandon's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://instagram.com/ernestsforza/">
+<a href="https://instagram.com/brandoninvictus/">
   <img align="left" alt="Brandon's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
@@ -85,7 +85,7 @@ Interested in the development of artificial intelligence and its branches, with 
   <img align="left" alt="Brandon's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-<a href="https://github.com/BrandonSforza">
+<a href="https://github.com/BrandonInvictus">
   <img align="left" alt="Brandon's Github" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
 </a>
 
