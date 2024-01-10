@@ -16,7 +16,7 @@ Interested in the development of artificial intelligence and its branches, with 
 *   🤝  I'm open to collaborating on Any military or AI projects
 *   ⚡  I am a Vampire
   
-> Never. I don’t ever give up. I’d have to be dead or completely incapacitated. For my part, I will never give up, and I mean never
+> Never. I don’t ever give up. I’d have to be dead or completely incapacitated. For my part, I will never give up, and I mean never.
 
 <hr>
 
