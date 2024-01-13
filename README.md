@@ -51,9 +51,14 @@ Interested in the development of artificial intelligence and its branches, with 
 
 ### Backend development:
 &emsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-05122A?style=flat&logo=flask)&nbsp;
+
+### OS
+&emsp;
+![Windows](https://img.shields.io/badge/-windows-05122A?style=flat&logo=windows)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 
 ### Misc tools
 &emsp;
@@ -62,7 +67,6 @@ Interested in the development of artificial intelligence and its branches, with 
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/chatGPT-05122A?style=flat&logo=openai)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux)&nbsp;
 
 <hr>
 
